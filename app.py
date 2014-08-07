@@ -65,10 +65,10 @@ def results():
 	
 	if not celsiusFlag:
 		tempflag = 0 #set flag to flase if in F
-		tempCelsius = tempCelsius + 32 * 9.0/5.0
+		tempCelsius = (tempCelsius * 9.0/5.0) + 32
 		#print "Temp after F convert: " + str(tempCelsius) #debug
-		maxTemp = maxTemp + 32 * 9.0/5.0
-		minTemp = minTemp + 32 * 9.0/5.0
+		maxTemp = (maxTemp * 9.0/5.0) + 32
+		minTemp = (minTemp * 9.0/5.0) + 32
 	
 	pressure = weather_data['main']['pressure']
 	humidity = weather_data['main']['humidity']
