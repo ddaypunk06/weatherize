@@ -39,13 +39,23 @@
 		<div class="form-group">
 			<label class="col-lg-2 control-label">Temp deviation range:</label> 
 			<div class="col-lg-10">
-				<p class="form-control-static">{{maxTemp}} / {{minTemp}}</p>
+				<p class="form-control-static">{{maxTemp}}{% if tempflag <= 0 %}
+				 F
+				{% else %}
+				 C
+				{% endif %}
+				/ 				
+				{% if tempflag <= 0 %}
+				 F
+				{% else %}
+				 C
+				{% endif %}{{minTemp}}</p>
 			</div>
 		</div>
 		<div class="form-group">
-			<label class="col-lg-2 control-label">Pressure (hPa):</label> 
+			<label class="col-lg-2 control-label">Pressure: </label> 
 			<div class="col-lg-10">
-				<p class="form-control-static">{{pressure}}</p>
+				<p class="form-control-static">{{pressure}} (hPa)</p>
 			</div>
 		</div>
 		<div class="form-group">
