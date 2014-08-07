@@ -1,0 +1,60 @@
+{% extends "layout.html" %}
+{% block title %}{{title}}{% endblock %}
+{% block content %}
+<div class="col-lg-12">
+	<h1>WeatherApp - Results for location:</h1>
+	<h4>{{inputCity}}, {{inputState}} ({{longitude}},{{latitude}})</h4>
+	<h5>(Last Updated: {{currentRequestTime}})</h5>
+	<br>
+	<form class="form-horizontal" role="form">
+		<div class="form-group">
+			<label class="col-lg-2 control-label">Sunrise:</label>
+			<div class="col-lg-10">
+				<p class="form-control-static">{{sunriseTime}}</p> <!-- times converted to timestamp -->
+			</div>
+		</div>
+		<div class="form-group">
+			<label class="col-lg-2 control-label">Sunset:</label>
+			<div class="col-lg-9">
+				<p class="form-control-static">{{sunsetTime}}</p>
+			</div>
+		</div>
+		<div class="form-group">
+			<label class="col-lg-2 control-label">Current Status:</label> 
+			<div class="col-lg-10">
+				<p class="form-control-static">{{description}}</p>
+			</div>
+		</div>
+		<div class="form-group">
+			<label class="col-lg-2 control-label">Current Temperature:</label> 
+			<div class="col-lg-10">
+				<p class="form-control-static">{{tempCelsius}}
+				{% if tempflag <= 0 %}
+				 F
+				{% else %}
+				 C
+				{% endif %}</p> <!-- converted to C or F from K -->
+			</div> 
+		</div>
+		<div class="form-group">
+			<label class="col-lg-2 control-label">Temp deviation range:</label> 
+			<div class="col-lg-10">
+				<p class="form-control-static">{{maxTemp}} / {{minTemp}}</p>
+			</div>
+		</div>
+		<div class="form-group">
+			<label class="col-lg-2 control-label">Pressure (hPa):</label> 
+			<div class="col-lg-10">
+				<p class="form-control-static">{{pressure}}</p>
+			</div>
+		</div>
+		<div class="form-group">
+			<label class="col-lg-2 control-label">Humidity:</label> 
+			<div class="col-lg-10">
+				<p class="form-control-static">{{humidity}} %</p>
+			</div>
+		</div>
+	</form>
+
+<</div>
+{% endblock %}
