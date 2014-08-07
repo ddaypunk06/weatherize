@@ -3,7 +3,10 @@ from time import strftime
 from datetime import datetime
 import requests, os
 
+#setup port and API key for later use
 PORT = int(os.environ.get('PORT', 5000))
+API_KEY = os.environ.get('API_KEY')
+
 
 app = Flask(__name__)
 app.config.from_object(__name__)
@@ -27,8 +30,12 @@ def results():
 		#return redirect(url_for('home'))
 
 	#construct the URL to make the API request
-	uri = "http://api.openweathermap.org/data/2.5/weather?q="+str(inputCity + ',' + inputState)
-	response = requests.get(uri)
+	uri = "http://api.openweathermap.org/data/2.5/weather"
+	params = {
+	'q': str(inputCity + ',' + inputState),
+	'APPID': API_KEY,
+	}
+	response = requests.get(uri, params=params)
 
 	#collect the JSON response
 	weather_data = response.json()
