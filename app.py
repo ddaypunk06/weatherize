@@ -5,8 +5,8 @@ import requests, os
 
 #setup port and API key for later use
 PORT = int(os.environ.get('PORT', 5000))
-API_KEY = os.environ.get('API_KEY')
-
+#API_KEY = os.environ.get('API_KEY')
+API_KEY = ENV['KEY']
 
 app = Flask(__name__)
 app.config.from_object(__name__)
