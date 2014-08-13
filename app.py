@@ -1,3 +1,9 @@
+"""
+Authored by: Andy Delso
+Weatherize Flask application
+Uses bootstrap, bootswatch css
+"""
+
 from flask import Flask, url_for, redirect, request, render_template
 from time import strftime
 from datetime import datetime
