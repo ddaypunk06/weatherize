@@ -72,8 +72,8 @@ def results():
 	currentRequestTime = get_time_local(weather_data['dt'], '%a. %B %d, %Y at %I:%M %p')
 
 	#these are localized by the API it seems (should the times be converted to the local of the city?)
-	sunriseTime = str(datetime.fromtimestamp(int(weather_data['sys']['sunrise'])).strftime('%I:%M %p'))
-	sunsetTime = str(datetime.fromtimestamp(int(weather_data['sys']['sunset'])).strftime('%I:%M %p'))
+	sunriseTime = get_time_local(weather_data['sys']['sunrise'],'%I:%M %p')
+	sunsetTime = get_time_local(weather_data['sys']['sunset'],'%I:%M %p')
 	
 	description = weather_data['weather'][0]['description']
 	weather_icon = "http://openweathermap.org/img/w/" + str(weather_data['weather'][0]['icon']) + ".png"
