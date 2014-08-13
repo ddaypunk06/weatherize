@@ -21,20 +21,24 @@
 		</div>
 		<div class="form-group">
 			<label class="col-lg-2 control-label">Current Status:</label> 
-			<div class="col-lg-10">
-				<p class="form-control-static">{{description}}</p>
+				<div class="col-lg-10">
+					<p class="form-control-static">
+						{{description}}
+						<img src="{{weather_icon}}"/>
+					</p>
+				</div>
 			</div>
 		</div>
 		<div class="form-group">
 			<label class="col-lg-2 control-label">Current Temperature:</label> 
-			<div class="col-lg-10">
-				<p class="form-control-static">{{tempCelsius}}
-				{% if tempflag <= 0 %}
-				 F
-				{% else %}
-				 C
-				{% endif %}</p> <!-- converted to C or F from K -->
-			</div> 
+				<div class="col-lg-10">
+					<p class="form-control-static">{{tempCelsius}}
+					{% if tempflag <= 0 %}
+					 F
+					{% else %}
+					 C
+					{% endif %}</p> <!-- converted to C or F from K -->
+				</div> 
 		</div>
 		<div class="form-group">
 			<label class="col-lg-2 control-label">Temp deviation range:</label> 
