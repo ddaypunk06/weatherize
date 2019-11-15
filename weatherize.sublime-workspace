@@ -1,0 +1,873 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sub",
+				"subprocess	module"
+			],
+			[
+				"st",
+				"style	Attr"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"off",
+				"offsetY"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"self",
+				"self"
+			],
+			[
+				"tal",
+				"talents_specials"
+			],
+			[
+				"stat",
+				"strain_threshold"
+			],
+			[
+				"p",
+				"presence"
+			],
+			[
+				"spe",
+				"special_abilities"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"coll",
+				"collection_name	param"
+			],
+			[
+				"col",
+				"collections	statement"
+			],
+			[
+				"dat",
+				"databases	statement"
+			],
+			[
+				"data",
+				"database_names"
+			],
+			[
+				"databas",
+				"databases	statement"
+			],
+			[
+				"sp",
+				"span	Tag"
+			],
+			[
+				"TEML",
+				"TEMPLATE_DIRS"
+			],
+			[
+				"vi",
+				"views"
+			],
+			[
+				"n",
+				"now	function"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"cl",
+				"Close"
+			],
+			[
+				"conn",
+				"Connection"
+			],
+			[
+				"count",
+				"count_features	statement"
+			],
+			[
+				"count_",
+				"count_files	statement"
+			],
+			[
+				"search",
+				"search_string_3	statement"
+			],
+			[
+				"file",
+				"file_path	statement"
+			],
+			[
+				"write",
+				"writeline	statement"
+			],
+			[
+				"un",
+				"unique"
+			],
+			[
+				"render",
+				"render_to_response	import"
+			],
+			[
+				"Model",
+				"ModelForm	ModelForm"
+			],
+			[
+				"context",
+				"context_dict	statement"
+			],
+			[
+				"all",
+				"all_posts	statement"
+			],
+			[
+				"STAT",
+				"STATIC_URL"
+			],
+			[
+				"post",
+				"post"
+			],
+			[
+				"url",
+				"url"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"date",
+				"datetime	class"
+			],
+			[
+				"PRO",
+				"PROJECT_ROOT	statement"
+			],
+			[
+				"pa",
+				"path	module"
+			],
+			[
+				"TEMPL",
+				"TEMPLATE_DIRS"
+			],
+			[
+				"hello",
+				"hello_world"
+			],
+			[
+				"True",
+				"True	class"
+			],
+			[
+				"fib",
+				"fib_list	statement"
+			],
+			[
+				"app",
+				"append	function"
+			],
+			[
+				"sum",
+				"sum_of_possibles	statement"
+			],
+			[
+				"scene",
+				"scene_map	statement"
+			],
+			[
+				"sc",
+				"scene_map	statement"
+			],
+			[
+				"scne",
+				"scene_map"
+			],
+			[
+				"e",
+				"exit	function"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"c",
+				"choices	statement"
+			],
+			[
+				"Item",
+				"ItemType	class"
+			],
+			[
+				"pr",
+				"price	statement"
+			],
+			[
+				"read",
+				"readline  (function)"
+			],
+			[
+				"player",
+				"player_stat_summary_dto"
+			],
+			[
+				"summoner",
+				"summoner_entries"
+			],
+			[
+				"summoner_id",
+				"summoner_id"
+			],
+			[
+				"locali",
+				"localized_dto"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"time",
+				"timezone  (variable)"
+			],
+			[
+				"I",
+				"IOError	error"
+			],
+			[
+				"sunset",
+				"sunsetTime"
+			],
+			[
+				"weather",
+				"weather_data"
+			],
+			[
+				"code",
+				"code"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"fl",
+				"Flask"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "templates/layout.html",
+			"settings":
+			{
+				"buffer_size": 1148,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"last_filter": "git",
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"git com",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"giti",
+				"Gitignore: New gitignore"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 527.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/andydelso/Development/weatherapp",
+		"/Users/andydelso/Development/weatherapp/templates"
+	],
+	"file_history":
+	[
+		"/Users/andydelso/Downloads/favicon.ico",
+		"/Users/andydelso/Development/weatherapp/templates/layout.html",
+		"/Users/andydelso/Development/ddaypunk06.github.io/index.html",
+		"/Users/andydelso/.zshrc",
+		"/Users/andydelso/Desktop/Sprout Scripts/sprout_snippets.js",
+		"/Users/andydelso/Desktop/sprout_get.py",
+		"/Users/andydelso/Desktop/sprout_post.py",
+		"/Users/andydelso/Development/website-pelican/content/ex-blog.md",
+		"/Users/andydelso/Development/website-pelican/publishconf.py",
+		"/Users/andydelso/Development/website-pelican/pelicanconf.py",
+		"/Users/andydelso/Development/ddaypunk06.github.io/Gemfile",
+		"/Library/Ruby/Gems/2.0.0/extensions/universal-darwin-14/2.0.0/nokogiri-1.6.6.2/gem_make.out",
+		"/Users/andydelso/error.log",
+		"/Users/andydelso/Development/eote_gen/.gitignore",
+		"/Users/andydelso/Desktop/_cucumber_scenarios_07312015_10:22:19.txt",
+		"/Users/andydelso/PycharmProjects/ddaypunk06.github.io/backups.html.bak",
+		"/Users/andydelso/Downloads/bootstrap-3.3.5-dist/css/bootstrap.min.css",
+		"/Users/andydelso/PycharmProjects/ddaypunk06.github.io/js/buggenerator.js",
+		"/Users/andydelso/PycharmProjects/ddaypunk06.github.io/.gitignore",
+		"/Users/andydelso/PycharmProjects/ddaypunk06.github.io/css/main.css",
+		"/Users/andydelso/PycharmProjects/ddaypunk06.github.io/css/normalize.css",
+		"/Users/andydelso/Desktop/master_cucumber_scenarios_07172015_13:11:20.txt",
+		"/Users/andydelso/Desktop/publishing_scenarios_master_07202015.txt",
+		"/Users/andydelso/Desktop/_cucumber_scenarios_07172015_09:41:25.txt",
+		"/Users/andydelso/.oh-my-zsh/themes/enso.zsh-theme",
+		"/Users/andydelso/.oh-my-zsh/themes/README.md",
+		"/Users/andydelso/.oh-my-zsh/themes/ddaypunk.zsh-theme",
+		"/Users/andydelso/PycharmProjects/ddaypunk06.github.io/temp.txt",
+		"/Users/andydelso/Desktop/pub-11117_needsapproval_cucumber_scenarios_07172015_09:41:13.txt",
+		"/Users/andydelso/PycharmProjects/ddaypunk06.github.io/humans.txt",
+		"/Users/andydelso/PycharmProjects/ddaypunk06.github.io/css/styles.css",
+		"/Users/andydelso/PycharmProjects/ddaypunk06.github.io/Gemfile",
+		"/Users/andydelso/Desktop/pub-1043_composeapproval_cucumber_scenarios_07082015_15:34:57.txt",
+		"/Users/andydelso/Desktop/pub-11177_needsapproval_cucumber_scenarios_07082015_15:32:25.txt",
+		"/Users/andydelso/buggenerator.js",
+		"/Users/andydelso/Desktop/master_cucumber_scenarios_05062015_12:19:22.txt",
+		"/Users/andydelso/PycharmProjects/ddaypunk06.github.io/js/rainyday.js",
+		"/Users/andydelso/PycharmProjects/ddaypunk06.github.io/css/andydelso.css",
+		"/Users/andydelso/PycharmProjects/ddaypunk06.github.io/andydelso.css",
+		"/Users/andydelso/PycharmProjects/sprout_scripts/compose_api.py",
+		"/Users/andydelso/Desktop/cURL Parse/multi_curl_compose.py",
+		"/Users/andydelso/Desktop/sprout_snippets.js",
+		"/Users/andydelso/Desktop/compose_api.py",
+		"/Users/andydelso/PycharmProjects/eote_gen/.gitignore",
+		"/Users/andydelso/Desktop/eote_gen/talents.py",
+		"/Users/andydelso/Desktop/eote_gen/classes.py",
+		"/Users/andydelso/Desktop/eote_gen/eote_species.py",
+		"/Users/andydelso/Desktop/eote_gen/eote_races.py",
+		"/Users/andydelso/Desktop/cURL Parse/curl_parse_read.txt",
+		"/Users/andydelso/Desktop/publishing-504_cucumber_scenarios_04202015_10:58:33.txt",
+		"/Users/andydelso/Desktop/publishing-569_cucumber_scenarios_04162015_09:52:54.txt",
+		"/Users/andydelso/Desktop/composetargetinglinkedin_backup.feature",
+		"/Users/andydelso/vim/.vimrc",
+		"/Users/andydelso/.vimrc",
+		"/Users/andydelso/qa-test-repos/andy-qa/.gitignore",
+		"/Users/andydelso/Desktop/curl_parse.py",
+		"/Users/andydelso/Desktop/curl_parse_read.txt",
+		"/Users/andydelso/Desktop/linkedin_seniorities.py",
+		"/Users/andydelso/Desktop/linkedin_job_functions.py",
+		"/Users/andydelso/Desktop/linkedin_industries.py",
+		"/Users/andydelso/Desktop/linkedin_company_sizes.py",
+		"/Users/andydelso/Desktop/linkedin_geos.py",
+		"/Users/andydelso/Desktop/python_scratch.py",
+		"/Users/andydelso/Library/Application Support/Sublime Text 3/Packages/User/Diffy.sublime-settings",
+		"/Users/andydelso/Desktop/curl_parse_run.sh",
+		"/Users/andydelso/Desktop/bookmarklet_change.js",
+		"/Users/andydelso/Desktop/untitled",
+		"/Users/andydelso/PycharmProjects/website/templates/index.html",
+		"/Users/andydelso/Desktop/sprout.ovpn",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-blongo/blongo_project/blongo_project/settings.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-blongo/blongo_project/blongo_app/models.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-blongo/blongo_project/blongo_project/urls.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-blongo/test.py",
+		"/Users/andydelso/Desktop/scenariosearch.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-bloggy/bloggy_project/blog/tests.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-bloggy/bloggy_project/blog/migrations/0003_post_slug.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-bloggy/bloggy_project/templates/blog/index.html",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-bloggy/bloggy_project/templates/blog/base.html",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-bloggy/bloggy_project/templates/index.html",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-quicks-start/hello_world_project/hello_world/urls.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-quicks-start/hello_world_project/hello_world_project/urls.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-quicks-start/hello_world_project/templates/betterhello.html",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-quicks-start/hello_world_project/hello_world/views.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/django-quicks-start/hello_world_project/hello_world_project/settings.py",
+		"/Users/andydelso/Desktop/gothons.py",
+		"/Users/andydelso/Desktop/item.py",
+		"/Users/andydelso/.bashrc",
+		"/Users/andydelso/PycharmProjects/thecollector/README.md",
+		"/Users/andydelso/PycharmProjects/thecollector/.gitignore",
+		"/Users/andydelso/PycharmProjects/project_euler/euler1.py",
+		"/Users/andydelso/PycharmProjects/skeleton/tests/NAME_tests.py",
+		"/Users/andydelso/PycharmProjects/skeleton/docs/README.txt",
+		"/Users/andydelso/PycharmProjects/skeleton/setup.py",
+		"/Users/andydelso/recreate_virtualenv.sh",
+		"/Users/andydelso/Desktop/diceStats.py",
+		"/Users/andydelso/Downloads/--2014-11-09-- - --2014-11-12--  (1).csv",
+		"/Users/andydelso/qa-test-repos/queue-qa-tests/src/test/resources/webapp/settings/queue_settings/queue-unpause.feature",
+		"/Users/andydelso/qa-test-repos/queue-qa-tests/src/test/resources/webapp/settings/queue_settings/queue-unpause.feature.orig",
+		"/Users/andydelso/.hgrc",
+		"/Users/andydelso/Desktop/queue automation/queue-save-multiprofile.feature",
+		"/Users/andydelso/Desktop/queue automation/queue-save-viral.feature",
+		"/Users/andydelso/Desktop/queue automation/queue-save-manual.feature",
+		"/Users/andydelso/Desktop/queue automation/queue-enable",
+		"/Users/andydelso/Desktop/queue automation/queue-sending.feature",
+		"/Users/andydelso/Desktop/queue automation/queue-disable.feature",
+		"/Users/andydelso/Desktop/queue automation/queue-unpause.feature",
+		"/Users/andydelso/Desktop/queue automation/queue-pause.feature",
+		"/Users/andydelso/PycharmProjects/gherkinstats/.gitignore",
+		"/Users/andydelso/qa-tests/.hgrc",
+		"/Users/andydelso/PycharmProjects/loldash/examples/ex_game_req.json",
+		"/Users/andydelso/PycharmProjects/loldash/examples/ex_summoner_req.json",
+		"/Users/andydelso/PycharmProjects/loldash/examples/ex_stat_summ_req.json",
+		"/Users/andydelso/.bash_profile",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/flask-live-code/.gitignore",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/flask-live-code/app/app.py",
+		"/Users/andydelso/PycharmProjects/RealPythonAssignments/flask--live-code/.gitignore",
+		"/Users/andydelso/Library/Application Support/Sublime Text 3/Packages/User/Python (Django).sublime-settings",
+		"/Users/andydelso/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/andydelso/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/andydelso/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/andydelso/Desktop/Jira Rich Edit.v20140919_1.js",
+		"/Users/andydelso/Desktop/Jira Rich Edit.v20140916.js",
+		"/jira_table_edit.js",
+		"/Users/andydelso/Desktop/easter.py",
+		"/Users/andydelso/Desktop/helloworld.java",
+		"/Users/andydelso/Desktop/Easter.java",
+		"/Users/andydelso/Desktop/summit_times.txt",
+		"/Users/andydelso/Desktop/times.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 97.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cyber",
+			"layout.html",
+			"Cyberpunk",
+			"- -",
+			"* -",
+			"- - (x)",
+			"- - (/)",
+			"&cpid=",
+			"fa-2x",
+			"enso",
+			"35px",
+			"</b>",
+			"<b>",
+			"ComposeTargetingLinkedin",
+			"europe",
+			",",
+			"\"",
+			"-",
+			"/",
+			" ",
+			". |\": ",
+			"&",
+			"\"*[a-z]|[A-Z]\"",
+			"    ",
+			"write",
+			"lang",
+			"	",
+			"[0-9]",
+			"\\* ",
+			"* ",
+			"djanog.template",
+			"users",
+			"add",
+			"yeti",
+			"**2**",
+			"	",
+			"+",
+			"wait 5",
+			"5",
+			"\\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,4}\\b",
+			".\\@.\\..",
+			"Ban User...Permissions\n",
+			"Delete...",
+			"	",
+			" ",
+			"textarea",
+			"editRawjiraInTable",
+			"]",
+			"each_stat_line['",
+			"['aggregatedStats']",
+			"eachStatLine",
+			"%21",
+			"%2c",
+			"%27",
+			"+",
+			"celsius",
+			"link",
+			"md",
+			"copyright"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "templates/layout.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								612,
+								612
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 110.0
+	},
+	"pinned_build_system": "",
+	"project": "weatherize.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 374.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 360.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
