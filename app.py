@@ -106,7 +106,7 @@ def results():
 	pressure = weather_data['main']['pressure']
 	humidity = weather_data['main']['humidity']
 
-	return render_template('results.html', inputCity=inputCity, inputState=inputState,
+	return render_template('results.html', inputCity=inputCity.title(), inputState=inputState.upper(),
 		longitude=longitude, latitude=latitude, sunriseTime=sunriseTime,
 		sunsetTime=sunsetTime, description=description, tempCelsius=tempCelsius,
 		maxTemp=maxTemp, minTemp=minTemp, pressure=pressure, humidity=humidity, 
